@@ -1,12 +1,12 @@
 ---
 layout: post
-title: SDN-based Incast Congestion Control for Data Centers
+title: Drop Packets of Interest
 ---
 
-I have published SICC project on my github 
+I have published Drop_Packets project on my github 
 
-The project tries to address congestion control in data centers by leveraging SDN, for more details please check:  
+The project tries to drop certain packets of interest for troubleshooting and monitoring TCP stack behaviour, for more details please check:  
 
-SDN-based Incast Congestion Control for Data Centers at **[SICC](http://ahmedcs.github.io/SICC)
+Drop Packets of interest is available at [Drop_Packets](http://ahmedcs.github.io/Drop_Packets)
 
 Thanks for checking my project and please leave me a comment.
