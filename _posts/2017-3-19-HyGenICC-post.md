@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HyGenICC: Hypervisor-based Generic Congestion Control for Virtualized Data Centers
+title: Hypervisor-based Generic Congestion Control for Virtualized Data Centers
 ---
 
 I have published HyGenICC project on my github 
