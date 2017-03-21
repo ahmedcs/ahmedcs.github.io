@@ -1,15 +1,12 @@
 ---
 layout: post
-title: My first blog post, will keep it up and updated
+title: Drop Packets of Interest
 ---
 
-This is my first blogging, i will try to post as much as i can.  
+I have published Drop_Packets project on my github 
 
-Mostly, my posts would be research related, so keep tuned.  
+The project tries to drop certain packets of interest for troubleshooting and monitoring TCP stack behaviour, for more details please check:  
 
-Cheers
+Drop Packets of interest is available at [Drop_Packets](http://ahmedcs.github.io/Drop_Packets)
 
-# How to build your own blog like this one
-
-The easiest way to build your own blog and website is via **Jekyll**, it is powerful, easy and hassle-free. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
-
+Thanks for checking my project and please leave me a comment.

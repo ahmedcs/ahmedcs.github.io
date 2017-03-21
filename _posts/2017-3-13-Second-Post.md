@@ -1,10 +1,12 @@
 ---
 layout: post
-title: My second blog post - The topic is just empty for now
+title: TCP Loss Monitor Module
 ---
 
-This is my second blogging, i will try to post as much as i can.  
+I have published TCP_Loss_Monitor project on my github 
 
-Mostly, my posts would be research related, so keep tuned.  
+The project tries to perform TCP socket-level events monitoring by probing TCP sockets for various state of interest, for more details please check:  
 
-Cheers
+TCP Loss Monitor is available at [TCP_Loss_Monitor](http://ahmedcs.github.io/TCP_loss_monitor)
+
+Thanks for checking my project and please leave me a comment.
