@@ -4,9 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-Publications
-============
-
 Below is the list of published work at international conferences and journals throughout my research work life over the years.
 
 Recent Publications
