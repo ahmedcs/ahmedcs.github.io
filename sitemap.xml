@@ -1,0 +1,2512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/</loc>
+  <lastmod>2022-11-22T21:56:44+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/index.html</loc>
+  <lastmod>2022-11-22T21:56:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/bio.html</loc>
+  <lastmod>2022-07-11T16:00:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/research.html</loc>
+  <lastmod>2022-05-05T02:36:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/publication.html</loc>
+  <lastmod>2022-05-05T02:36:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/teaching.html</loc>
+  <lastmod>2022-05-05T02:36:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/projects.html</loc>
+  <lastmod>2022-05-05T02:36:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/talks.html</loc>
+  <lastmod>2022-05-05T02:36:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/activities.html</loc>
+  <lastmod>2022-05-05T02:36:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/readfirst.html</loc>
+  <lastmod>2022-05-05T02:36:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/cv.pdf</loc>
+  <lastmod>2022-11-02T15:15:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/efficient-machine-learning-on-decentralized-data-at-scale.html</loc>
+  <lastmod>2022-11-23T12:14:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/machine-learning-support-for-future-intelligent-networks.html</loc>
+  <lastmod>2022-11-23T12:14:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/talks/iggi.pdf</loc>
+  <lastmod>2022-11-21T22:22:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-studentships/bame-doctoral-research-studentships-science-and-engineering/</loc>
+  <lastmod>2022-03-08T12:12:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/talks/PEFL.pdf</loc>
+  <lastmod>2022-11-22T21:52:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/papers/ICPP20.pdf</loc>
+  <lastmod>2021-11-24T02:22:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/papers/AAAI20.pdf</loc>
+  <lastmod>2021-11-24T02:22:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/papers/ProboSCIS.pdf</loc>
+  <lastmod>2021-11-24T02:22:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/papers/Gurita.pdf</loc>
+  <lastmod>2021-11-24T02:22:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/papers/creek.pdf</loc>
+  <lastmod>2021-11-24T02:22:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/papers/INFOCOM19.pdf</loc>
+  <lastmod>2021-11-24T02:22:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/papers/Annals17.pdf</loc>
+  <lastmod>2021-11-24T02:22:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/papers/IJSNDC2011.pdf</loc>
+  <lastmod>2021-11-24T02:22:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/papers/stride.pdf</loc>
+  <lastmod>2021-11-24T02:22:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/papers/INFOCOM18.pdf</loc>
+  <lastmod>2021-11-24T02:22:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/papers/LCN17.pdf</loc>
+  <lastmod>2021-11-24T02:22:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/papers/SRDS17.pdf</loc>
+  <lastmod>2021-11-24T02:22:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/papers/ICC17.pdf</loc>
+  <lastmod>2021-11-24T02:22:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/papers/LCN16-James.pdf</loc>
+  <lastmod>2021-11-24T02:22:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/papers/ICC16.pdf</loc>
+  <lastmod>2021-11-24T02:22:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/papers/ICC16-James.pdf</loc>
+  <lastmod>2021-11-24T02:22:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/papers/IPCCC15.pdf</loc>
+  <lastmod>2021-11-24T02:22:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/papers/Globecom15.pdf</loc>
+  <lastmod>2021-11-24T02:22:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/papers/Cloudnet15.pdf</loc>
+  <lastmod>2021-11-24T02:22:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/papers/ISDA2010.pdf</loc>
+  <lastmod>2021-11-24T02:22:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/papers/HKUST-CS17-02-TRACKS.pdf</loc>
+  <lastmod>2021-11-24T02:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/papers/HKUST-CS17-01-HSCC.pdf</loc>
+  <lastmod>2021-11-24T02:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/papers/HKUST-CS16-02-SDNGCC.pdf</loc>
+  <lastmod>2021-11-24T02:22:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/papers/HKUST-CS16-01.pdf</loc>
+  <lastmod>2021-11-24T02:22:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/talks/CloudNetworking.pdf</loc>
+  <lastmod>2021-11-24T02:22:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/talks/ICC17.pptx</loc>
+  <lastmod>2021-11-24T02:22:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/talks/Globecom15.pptx</loc>
+  <lastmod>2021-11-24T02:22:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/~ahmed/talks/Cloudnet15.pptx</loc>
+  <lastmod>2021-11-24T02:22:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/</loc>
+  <lastmod>2022-11-23T12:06:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/about-us/</loc>
+  <lastmod>2022-11-23T12:14:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/about-us/equality-diversity-and-inclusion/</loc>
+  <lastmod>2022-11-23T12:14:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/about-us/job-opportunities/</loc>
+  <lastmod>2022-11-23T12:14:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/about-us/contact-us/</loc>
+  <lastmod>2022-11-23T12:14:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/</loc>
+  <lastmod>2022-11-23T12:14:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/programmes/</loc>
+  <lastmod>2022-11-23T12:14:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/degree-apprenticeships/</loc>
+  <lastmod>2022-11-23T12:14:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/professional-accreditation/</loc>
+  <lastmod>2022-11-23T12:14:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/science-and-engineering-foundation-programme/</loc>
+  <lastmod>2022-11-23T12:14:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/industrial-experience/</loc>
+  <lastmod>2022-11-23T12:14:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/why-choose-us/</loc>
+  <lastmod>2022-11-23T12:14:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/students/</loc>
+  <lastmod>2022-11-23T12:14:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/international-students/</loc>
+  <lastmod>2022-11-23T12:14:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/scholarships/</loc>
+  <lastmod>2022-11-23T12:14:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/qtech/</loc>
+  <lastmod>2022-11-23T12:14:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/postgraduate/</loc>
+  <lastmod>2022-11-23T12:14:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/postgraduate/programmes/</loc>
+  <lastmod>2022-11-23T12:14:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/postgraduate/msc-project-with-industry/</loc>
+  <lastmod>2022-11-23T12:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/postgraduate/professional-accreditation/</loc>
+  <lastmod>2022-11-23T12:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/postgraduate/entry-requirements/</loc>
+  <lastmod>2022-11-23T12:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/postgraduate/student-fees-and-funding/</loc>
+  <lastmod>2022-11-23T12:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/postgraduate/apply/</loc>
+  <lastmod>2022-11-23T12:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/postgraduate/why-study-at-eecs/</loc>
+  <lastmod>2022-11-23T12:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/postgraduate/qtech/</loc>
+  <lastmod>2022-11-23T12:14:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/</loc>
+  <lastmod>2022-11-23T12:14:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/</loc>
+  <lastmod>2022-11-23T12:14:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-studentships/</loc>
+  <lastmod>2022-11-23T12:14:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/fees-and-funding/</loc>
+  <lastmod>2022-11-23T12:14:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/students/</loc>
+  <lastmod>2022-11-23T12:14:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/how-to-apply/</loc>
+  <lastmod>2022-11-23T12:14:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/why-eecs-phd/</loc>
+  <lastmod>2022-11-23T12:14:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/research/</loc>
+  <lastmod>2022-11-23T12:14:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/research/research-groups/</loc>
+  <lastmod>2022-11-23T12:14:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/research/eecs-research-impact/</loc>
+  <lastmod>2022-11-23T12:14:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/research/industry-collaboration/</loc>
+  <lastmod>2022-11-23T12:14:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/research/research-highlights/</loc>
+  <lastmod>2022-11-23T12:14:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/research/featured-research/</loc>
+  <lastmod>2022-11-23T12:14:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/for-schools/</loc>
+  <lastmod>2022-11-23T12:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/for-schools/for-schools/</loc>
+  <lastmod>2022-11-23T12:14:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/for-schools/for-teachers/</loc>
+  <lastmod>2022-11-23T12:14:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/</loc>
+  <lastmod>2022-11-23T12:10:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/academic/</loc>
+  <lastmod>2022-11-23T12:13:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/research/</loc>
+  <lastmod>2022-11-23T12:11:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/professional-services-staff/</loc>
+  <lastmod>2022-11-23T12:11:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/technical-staff/</loc>
+  <lastmod>2022-11-23T12:11:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/phd-student/</loc>
+  <lastmod>2022-11-23T12:11:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/emeritus-staff/</loc>
+  <lastmod>2022-11-23T12:11:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/visiting-staff/</loc>
+  <lastmod>2022-11-23T12:11:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/alumni/</loc>
+  <lastmod>2022-11-23T12:10:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/news-and-events/</loc>
+  <lastmod>2022-11-23T12:08:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/news-and-events/news/</loc>
+  <lastmod>2022-11-23T12:10:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/news-and-events/events/</loc>
+  <lastmod>2022-11-23T12:08:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/joint-programme---beijing/</loc>
+  <lastmod>2022-11-23T12:08:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/joint-programme---beijing/teaching/</loc>
+  <lastmod>2022-11-23T12:08:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/joint-programme---beijing/jtlc/</loc>
+  <lastmod>2022-11-23T12:08:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/joint-programme---beijing/jpic/</loc>
+  <lastmod>2022-11-23T12:08:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/sayedahmed.html</loc>
+  <lastmod>2022-11-22T13:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/ioc/</loc>
+  <lastmod>2022-08-22T12:06:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/ioc/short-courses-and-events/</loc>
+  <lastmod>2022-08-22T12:07:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/ioc/programmes/</loc>
+  <lastmod>2022-08-22T12:07:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/ioc/supporting-teachers/</loc>
+  <lastmod>2022-08-22T12:07:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/ioc/scholarships/</loc>
+  <lastmod>2022-08-22T12:06:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/research/featured-research/technology-to-automatically-detect-software-bugs/</loc>
+  <lastmod>2022-11-23T12:14:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/research/featured-research/new-technology-helps-re-identify-people-in-videos/</loc>
+  <lastmod>2022-11-23T12:14:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/news-and-events/news/items/school-of-electronic-engineering-and-computer-science-confirmed-as-a-centre-of-research-excellence-in-ref-2021.html</loc>
+  <lastmod>2022-11-23T12:08:25+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/news-and-events/news/items/eecs-academic-awarded-65000-to-train-future-power-electronics-engineers.html</loc>
+  <lastmod>2022-11-23T12:06:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/alumni/alumni-profiles/postgraduate-alumni-profiles/items/alumni-profile---terence-michael-egbelo-data-science-and-artificial-intelligence-msc-2021.html</loc>
+  <lastmod>2022-11-23T12:06:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/joint-programme---beijing/jtlc/news/items/uk-china-jia-agm-and-conference-2022-birmingham.html</loc>
+  <lastmod>2022-11-23T12:06:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/about-us/equality-diversity-and-inclusion/women-in-computer-science-and-electronic-engineering/</loc>
+  <lastmod>2022-11-23T12:14:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/about-us/equality-diversity-and-inclusion/policies-and-support/</loc>
+  <lastmod>2022-11-23T12:14:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/about-us/equality-diversity-and-inclusion/edi-committee/</loc>
+  <lastmod>2022-11-23T12:14:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/media/qmul/docs/about/Updated-Mile-End-campus-Sep-22.pdf</loc>
+  <lastmod>2022-11-23T12:14:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/why-choose-us/employability-and-graduate-outcomes/</loc>
+  <lastmod>2022-11-23T12:14:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/programmes/apply/</loc>
+  <lastmod>2022-11-23T12:14:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/programmes/fees-and-funding/fees-and-funding</loc>
+  <lastmod>2022-11-23T12:14:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/programmes/entry-requirements/</loc>
+  <lastmod>2022-11-23T12:14:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/programmes/modules/</loc>
+  <lastmod>2022-11-23T12:14:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/programmes/study-abroad/</loc>
+  <lastmod>2022-11-23T12:14:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/degree-apprenticeships/software-engineer/</loc>
+  <lastmod>2022-11-23T12:14:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/apply/entry-requirements/</loc>
+  <lastmod>2021-03-19T12:07:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/industrial-experience/industrial-experience-option---information-for-employers/</loc>
+  <lastmod>2022-11-23T12:14:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/why-choose-us/facilities/</loc>
+  <lastmod>2022-11-23T12:14:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/why-choose-us/meet-our-staff/</loc>
+  <lastmod>2022-11-23T12:14:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/why-choose-us/information-for-parents/</loc>
+  <lastmod>2022-11-23T12:14:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/students/shazib-ameer/</loc>
+  <lastmod>2022-11-23T12:14:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/students/kapil-pau/</loc>
+  <lastmod>2022-11-23T12:14:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/students/nabila-nur/</loc>
+  <lastmod>2022-11-23T12:14:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/students/balwinder-singh/</loc>
+  <lastmod>2022-11-23T12:14:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/students/jayant-shivarajan-/</loc>
+  <lastmod>2022-11-23T12:14:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/scholarships/deepmind-scholarships-/</loc>
+  <lastmod>2022-11-23T12:14:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/scholarships/data-science-and-ai-msc-scholarship/</loc>
+  <lastmod>2022-11-23T12:14:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/scholarships/tcs-digital-explorers-bursary/</loc>
+  <lastmod>2022-11-23T12:14:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/scholarships/quantumblack-scholarship/</loc>
+  <lastmod>2022-11-23T12:14:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/scholarships/deepmind-scholarships-/raghad-zuraiki/</loc>
+  <lastmod>2022-11-23T12:14:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/qtech/qtech-information-for-students/</loc>
+  <lastmod>2022-11-23T12:14:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/qtech/qtech-information-for-clients/</loc>
+  <lastmod>2022-11-23T12:14:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/undergraduate/qtech/about-us/</loc>
+  <lastmod>2022-11-23T12:14:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/ioc/scholarships/deepmind-scholarships-/</loc>
+  <lastmod>2022-08-22T12:06:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/facilities/</loc>
+  <lastmod>2022-11-23T12:08:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/postgraduate/why-study-at-eecs/meet-our-staff/</loc>
+  <lastmod>2022-11-23T12:14:46+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/postgraduate/qtech/qtech-information-for-students/</loc>
+  <lastmod>2022-11-23T12:14:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/postgraduate/qtech/qtech-information-for-clients/</loc>
+  <lastmod>2022-11-23T12:14:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/postgraduate/qtech/about-us/</loc>
+  <lastmod>2022-11-23T12:14:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/smartphone-audio-vsiual-sensing-networks.html</loc>
+  <lastmod>2022-11-23T12:14:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/wanglin.html</loc>
+  <lastmod>2022-11-22T13:06:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/smartphone-audio-vsiual-sensing-networks-1.html</loc>
+  <lastmod>2022-11-23T12:14:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/resource-allocation-for-noma-based-d2d-communications.html</loc>
+  <lastmod>2022-11-23T12:14:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/chaimichael.html</loc>
+  <lastmod>2022-11-22T13:04:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/vision-for-action-long-term-visual-prediction-for-vision-based-robot-manipulation.html</loc>
+  <lastmod>2022-11-23T12:14:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/ohchangjae.html</loc>
+  <lastmod>2022-11-22T13:06:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/cognihome--a-connected-smarter-home-for-healthier-lives.html</loc>
+  <lastmod>2022-11-23T12:14:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/alamatm.html</loc>
+  <lastmod>2022-11-22T13:08:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/sonic-exploration-of-physiological-control.html</loc>
+  <lastmod>2022-11-23T12:14:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/stockmantony.html</loc>
+  <lastmod>2022-11-22T13:08:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/the-interaction-design-of-complex-multi-search-interface-components.html</loc>
+  <lastmod>2022-11-23T12:14:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/tactile-intelligence-for-smart-and-soft-robots.html</loc>
+  <lastmod>2022-11-23T12:14:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/jamonelorenzo.html</loc>
+  <lastmod>2022-11-23T12:08:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/subjective-perception-of-scanned-3d-models.html</loc>
+  <lastmod>2022-11-23T12:14:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/hansardmiles.html</loc>
+  <lastmod>2022-11-22T13:08:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/machine-learning-for-wireless-caching.html</loc>
+  <lastmod>2022-11-23T12:14:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/elkashlanmaged.html</loc>
+  <lastmod>2022-11-22T13:08:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/autonomous-intelligent-robots-for-the-future-of-manufactory-and-beyond.html</loc>
+  <lastmod>2022-11-23T12:14:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/information-retrieval-models-for-probabilistic-data-analysis.html</loc>
+  <lastmod>2022-11-23T12:14:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/roellekethomas.html</loc>
+  <lastmod>2022-11-22T13:08:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/information-extraction-and-computational-linguistics-a-case-for-probabilistic-datalog.html</loc>
+  <lastmod>2022-11-23T12:14:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/physically-based-modelling-and-rendering-of-3d-point-cloud-data.html</loc>
+  <lastmod>2022-11-23T12:14:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/molecular-communications-for-nano-devices.html</loc>
+  <lastmod>2022-11-23T12:14:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/psychologically-aware-conversational-agents.html</loc>
+  <lastmod>2022-11-23T12:14:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/hsuanne.html</loc>
+  <lastmod>2022-11-22T13:08:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/soft-haptics---embedding-interactive-sense-of-touch-in-soft-materials.html</loc>
+  <lastmod>2022-11-23T12:14:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/farkhatdinovildar.html</loc>
+  <lastmod>2022-11-23T12:07:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/probabilistic-learning-of-musical-syntax.html</loc>
+  <lastmod>2022-11-23T12:14:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/pearcemarcus.html</loc>
+  <lastmod>2022-11-22T13:06:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/quantum-methods-for-analyzing-music-and-language-as-communicative-systems.html</loc>
+  <lastmod>2022-11-23T12:14:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/interaction-methods-for-virtual-reality-and-robotics-involving-sense-of-motion-and-touch.html</loc>
+  <lastmod>2022-11-23T12:14:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/interaction-methods-for-virtual-reality-and-robotics-involving-sense-of-motion-and-touch-1.html</loc>
+  <lastmod>2022-11-23T12:14:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/test.html</loc>
+  <lastmod>2022-11-23T12:14:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/principled-and-scalable-exploration-for-reinforcement-learning.html</loc>
+  <lastmod>2022-11-23T12:14:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/rauberpaulo.html</loc>
+  <lastmod>2022-11-22T13:08:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/distributional-pragmatics-learning-to-understand-conversation.html</loc>
+  <lastmod>2022-11-23T12:14:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/purvermatthew.html</loc>
+  <lastmod>2022-11-22T13:05:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/language-processing-for-mental-health-treatment.html</loc>
+  <lastmod>2022-11-23T12:14:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/interaction-mining.html</loc>
+  <lastmod>2022-11-23T12:14:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/data-efficient-end-to-end-computational-videography-pipeline.html</loc>
+  <lastmod>2022-11-23T12:14:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/slabaughgreg.html</loc>
+  <lastmod>2022-11-22T13:05:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/normalizing-flow-based-shape-priors-for-image-analysis.html</loc>
+  <lastmod>2022-11-23T12:14:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/deep-learning-to-model-soft-robot-arms-and-hands.html</loc>
+  <lastmod>2022-11-23T12:14:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/althoeferkaspar.html</loc>
+  <lastmod>2022-11-23T12:13:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/a-quadruped-robot-using-inflatable-stiffness-controllable-legs.html</loc>
+  <lastmod>2022-11-23T12:14:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/assistive-robotics-for-industry-and-disability.html</loc>
+  <lastmod>2022-11-23T12:14:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/human-perception-and-behaviour-for-human-machine-interfaces.html</loc>
+  <lastmod>2022-11-23T12:14:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/all-terrain-adaptive-mobile-robots.html</loc>
+  <lastmod>2022-11-23T12:14:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/robot-control-with-virtual-reality-and-haptics-interfaces.html</loc>
+  <lastmod>2022-11-23T12:14:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/creative-code-generation.html</loc>
+  <lastmod>2022-11-23T12:14:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/coltonsimon.html</loc>
+  <lastmod>2022-11-22T13:08:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/deep-generative-models-for-procedural-content-generation.html</loc>
+  <lastmod>2022-11-23T12:14:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/bayesian-machine-learning-for-causal-discovery.html</loc>
+  <lastmod>2022-11-23T12:14:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/constantinouanthony.html</loc>
+  <lastmod>2022-11-22T13:08:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/bayesian-artificial-intelligence-for-optimal-decision-making.html</loc>
+  <lastmod>2022-11-23T12:14:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/geographically-distributed-decentralised-large-scale-data-analytics.html</loc>
+  <lastmod>2022-11-23T12:14:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/cuadradofelix.html</loc>
+  <lastmod>2022-11-23T12:07:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/adaptive-orchestration-of-edge-computing-functions.html</loc>
+  <lastmod>2022-11-23T12:14:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/multi-task-learning-for-music-information-retrieval.html</loc>
+  <lastmod>2022-11-23T12:14:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/benetosemmanouil.html</loc>
+  <lastmod>2022-11-22T13:09:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/assessing-and-mitigating-online-harms.html</loc>
+  <lastmod>2022-11-23T12:14:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/zubiagaarkaitz.html</loc>
+  <lastmod>2022-11-22T13:08:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/computational-journalism.html</loc>
+  <lastmod>2022-11-23T12:14:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/evaluating-and-visualising-mutually-engaging-interaction.html</loc>
+  <lastmod>2022-11-23T12:14:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/bryan-kinnsnick.html</loc>
+  <lastmod>2022-11-22T13:05:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/evaluating-creativity-and-mutual-engagement-using-machine-learning.html</loc>
+  <lastmod>2022-11-23T12:14:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/understanding-the-evolution-of-the-internet.html</loc>
+  <lastmod>2022-11-23T12:14:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/castroignacio.html</loc>
+  <lastmod>2022-11-23T12:14:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/machine-learning-for-computer-vision-and-affective-computing-.html</loc>
+  <lastmod>2022-11-23T12:14:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/patrasioannis.html</loc>
+  <lastmod>2022-11-22T13:07:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/when-big-data-meets-machine-learning-in-wireless-networks.html</loc>
+  <lastmod>2022-11-23T12:14:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/liuyuanwei.html</loc>
+  <lastmod>2022-11-22T13:07:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/non-orthogonal-multiple-access-noma-for-5g-and-iot-networks.html</loc>
+  <lastmod>2022-11-23T12:14:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/teaching-computational-thinking.html</loc>
+  <lastmod>2022-11-23T12:14:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/curzonpaul.html</loc>
+  <lastmod>2022-11-22T13:07:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/augmented-reality-and-game-playstorytelling.html</loc>
+  <lastmod>2022-11-23T12:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/tokarchuklaurissa.html</loc>
+  <lastmod>2022-11-22T13:08:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/hci-to-support-intelligent-healthcare-for-chronic-diseases.html</loc>
+  <lastmod>2022-11-23T12:14:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/mobile-sensing-for-crowd-interaction-analysis.html</loc>
+  <lastmod>2022-11-23T12:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/using-network-theory-to-evaluate-the-impact-of-climate-change.html</loc>
+  <lastmod>2022-11-23T12:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/maathen.html</loc>
+  <lastmod>2022-11-22T13:08:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/detecting-deception-and-fake-news.html</loc>
+  <lastmod>2022-11-23T12:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/poesiomassimo.html</loc>
+  <lastmod>2022-11-22T13:06:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/games-with-a-purpose-for-data-labelling.html</loc>
+  <lastmod>2022-11-23T12:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/the-anatomy-of-scientific-research.html</loc>
+  <lastmod>2022-11-23T12:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/are-we-creatures-of-habit.html</loc>
+  <lastmod>2022-11-23T12:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/machine-learning-for-sparse-signal-processing-in-wireless-communications.html</loc>
+  <lastmod>2022-11-23T12:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/electromagnetics-as-a-tool-for-solving-and-investiagting-bio-medical-problems.html</loc>
+  <lastmod>2022-11-23T12:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/dubrovkarostyslav.html</loc>
+  <lastmod>2022-11-23T12:07:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/passive-active-and-non-linear-antennas-and-antenna-arrays-for-modern-mm-wave-and-thz-systems.html</loc>
+  <lastmod>2022-11-23T12:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/sami-3-song-level-audio-features-for-navigating-large-music-collections.html</loc>
+  <lastmod>2022-11-23T12:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/sandlermark.html</loc>
+  <lastmod>2022-11-23T12:14:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/sami-1-studio-science-improving-feature-extraction-in-the-studio-delivering-new-experiences-to-the-consumer.html</loc>
+  <lastmod>2022-11-23T12:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/sami-2-enhancing-the-music-listening-experience.html</loc>
+  <lastmod>2022-11-23T12:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/user-centered-security-and-privacy-for-iot-use-in-ehealth-wearables-and-wireless-sensor-networks.html</loc>
+  <lastmod>2022-11-23T12:14:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/posladstefan.html</loc>
+  <lastmod>2022-11-23T12:07:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/understanding-the-throughput-of-transmission-control-protocol.html</loc>
+  <lastmod>2022-11-23T12:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/cleggrichard.html</loc>
+  <lastmod>2022-11-22T13:08:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/understanding-mobile-social-apps.html</loc>
+  <lastmod>2022-11-23T12:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/tysongareth.html</loc>
+  <lastmod>2022-11-23T12:13:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/uav-enabled-wireless-networks.html</loc>
+  <lastmod>2022-11-23T12:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/nallanathanarumugam.html</loc>
+  <lastmod>2022-11-22T13:07:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/sound-effect-synthesis.html</loc>
+  <lastmod>2022-11-23T12:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/reissjosh.html</loc>
+  <lastmod>2022-11-22T13:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/student-behavioural-patterns-within-academic-environments-using-mobile-sensing.html</loc>
+  <lastmod>2022-11-23T12:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/naeemusman.html</loc>
+  <lastmod>2022-11-22T13:09:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/sound-recognition-in-everyday-environments.html</loc>
+  <lastmod>2022-11-23T12:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/routing-based-security-enhancement-scheme-for-mtc-in-e-health-network.html</loc>
+  <lastmod>2022-11-23T12:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/sunyancindy.html</loc>
+  <lastmod>2022-11-22T13:06:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/smart-guidance.html</loc>
+  <lastmod>2022-11-23T12:14:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/sdn-based-energy-aware-management-for-campus-networks.html</loc>
+  <lastmod>2022-11-23T12:14:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/wijeratnevindya.html</loc>
+  <lastmod>2022-11-22T13:05:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/resource-allocation-optimization-for-mmwave-fused-heterogeneous-networks.html</loc>
+  <lastmod>2022-11-23T12:14:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/chenyue.html</loc>
+  <lastmod>2022-11-22T13:05:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/reconfigurable-radio-front-ends-from-uhf-to-mm-wave-for-future-wireless-communications.html</loc>
+  <lastmod>2022-11-23T12:14:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/alomainyakram.html</loc>
+  <lastmod>2022-11-23T12:07:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/projects-in-music-information-research-mir.html</loc>
+  <lastmod>2022-11-23T12:14:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/dixonsimon.html</loc>
+  <lastmod>2022-11-22T13:08:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/programs-and-proofs.html</loc>
+  <lastmod>2022-11-23T12:14:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/olivapaulo.html</loc>
+  <lastmod>2022-11-22T13:07:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/preserving-empirical-data-in-expert-built-bayesian-networks.html</loc>
+  <lastmod>2022-11-23T12:14:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/fentonnorman.html</loc>
+  <lastmod>2022-11-24T05:25:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/privacy-protection-against-spatial-temporal-tracking.html</loc>
+  <lastmod>2022-11-23T12:14:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/nano-scale-emhybrid-communication-networks-for-healthcare-monitoring-applications.html</loc>
+  <lastmod>2022-11-23T12:14:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/mosaics-and-demosaicking-of-colour-filter-arrays.html</loc>
+  <lastmod>2022-11-23T12:14:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/haopengwei.html</loc>
+  <lastmod>2022-11-22T13:08:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/multi-physics-sensor-array-for-silicon-carbide-sic-based-power-electronic-converter-prognostics-in-electric-vehicles.html</loc>
+  <lastmod>2022-11-23T12:14:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/mehrankamyar.html</loc>
+  <lastmod>2022-11-23T12:07:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/mountain-rescue-communications-support.html</loc>
+  <lastmod>2022-11-23T12:14:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/bodaneseeliane.html</loc>
+  <lastmod>2022-11-23T12:06:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/magic-driven-visual-hypothesis-testing.html</loc>
+  <lastmod>2022-11-23T12:14:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/gongshaogang.html</loc>
+  <lastmod>2022-11-23T12:08:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/lightweight-and-dynamic-messaging-system.html</loc>
+  <lastmod>2022-11-23T12:14:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/internet-of-things-friend-or-foe.html</loc>
+  <lastmod>2022-11-23T12:14:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/mondragonraul.html</loc>
+  <lastmod>2022-11-22T13:09:25+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/internet-of-things-for-a-smart-planet.html</loc>
+  <lastmod>2022-11-23T12:14:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/intelligent-systems-for-audio-production.html</loc>
+  <lastmod>2022-11-23T12:14:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/improving-the-statistical-basis-of-forensic-evidence.html</loc>
+  <lastmod>2022-11-23T12:14:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/higher-order-game-theory.html</loc>
+  <lastmod>2022-11-23T12:14:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/high-efficiency-video-coding.html</loc>
+  <lastmod>2022-11-23T12:14:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/izquierdoebroul.html</loc>
+  <lastmod>2022-11-22T13:09:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/high-quality-semi-automatic-production-of-animations-using-commodity-rgb-d-sensors.html</loc>
+  <lastmod>2022-11-23T12:14:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/exploring-the-fundamental-nature-of-video-traffic.html</loc>
+  <lastmod>2022-11-23T12:14:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/exploring-the-african-internet-ecosystem.html</loc>
+  <lastmod>2022-11-23T12:14:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/exploration-into-the-development-of-miniaturised-electromagnetic-wave-detection-methods-for-medical-diagnostics.html</loc>
+  <lastmod>2022-11-23T12:14:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/alfadhlyasir.html</loc>
+  <lastmod>2022-11-22T13:08:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/enhanced-security-for-multimedia-big-data-transmissions-in-crmanet.html</loc>
+  <lastmod>2022-11-23T12:14:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/edge-caching-in-small-cell-and-d2d-networks.html</loc>
+  <lastmod>2022-11-23T12:14:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/development-of-novel-rf-fingerprinting-location-detection-system-for-indoor-applications.html</loc>
+  <lastmod>2022-11-23T12:14:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/cyber-security-in-the-wild.html</loc>
+  <lastmod>2022-11-23T12:14:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/condition-monitoring-system-for-electric-vehicle-battery-packs-using-current-density-images-of-li-ion-pouch-cells.html</loc>
+  <lastmod>2022-11-23T12:14:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/computer-based-histopathological-image-analysis-for-cancer-grading-and-progression-assessment.html</loc>
+  <lastmod>2022-11-23T12:14:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/zhangqianni.html</loc>
+  <lastmod>2022-11-22T13:08:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/communication-networks.html</loc>
+  <lastmod>2022-11-23T12:14:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/phillipschris.html</loc>
+  <lastmod>2022-11-22T13:08:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/best-prediction-of-perceived-user-quality-in-mobile-networks.html</loc>
+  <lastmod>2022-11-23T12:14:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/schormansjohn.html</loc>
+  <lastmod>2022-11-22T13:06:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/bayesian-networks-to-model-legal-arguments.html</loc>
+  <lastmod>2022-11-23T12:14:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/artificial-intelligence-ai-in-wireless-networks-and-iot.html</loc>
+  <lastmod>2022-11-23T12:14:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-opportunities/items/acoustic-autofocus.html</loc>
+  <lastmod>2022-11-23T12:14:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-studentships/phd-studentship-in-artificial-intelligence-and-music/</loc>
+  <lastmod>2022-11-23T12:14:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-studentships/principal-and-epsrc-dtp-phd-studentships-in-electronic-engineering-and-computer-science/</loc>
+  <lastmod>2022-11-23T12:14:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/phd-studentships/csc-phd-studentships-in-electronic-engineering-and-computer-science/</loc>
+  <lastmod>2022-11-23T12:14:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/students/ali-fahmi/</loc>
+  <lastmod>2022-11-23T12:14:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/students/yanbei-chen/</loc>
+  <lastmod>2022-11-23T12:14:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/students/wei-li/</loc>
+  <lastmod>2022-11-23T12:14:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/students/wenqiang-yi/</loc>
+  <lastmod>2022-11-23T12:14:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/students/taqi-abrar/</loc>
+  <lastmod>2022-11-23T12:14:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/phd/how-to-apply/entry-requirements/</loc>
+  <lastmod>2022-11-23T12:14:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/research/industry-collaboration/spin-out-portfolio/</loc>
+  <lastmod>2022-11-23T12:14:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/research/research-groups/antennas/</loc>
+  <lastmod>2022-11-23T12:14:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/research/research-projects/</loc>
+  <lastmod>2022-11-23T12:14:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/research/eecs-research-impact/measuring--actual-experience-to-improve-networked-applications-and-services/</loc>
+  <lastmod>2022-11-23T12:14:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/research/eecs-research-impact/efficient-and-scalable-video-coding/</loc>
+  <lastmod>2022-11-23T12:14:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/research/eecs-research-impact/facing-up-to-robots/</loc>
+  <lastmod>2022-11-23T12:14:25+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/research/eecs-research-impact/music-informatics-and-sonic-visualiser/</loc>
+  <lastmod>2022-11-23T12:14:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/research/eecs-research-impact/multi-target-tracking-and-scene-analysis/</loc>
+  <lastmod>2022-11-23T12:14:25+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/research/eecs-research-impact/ultra-wideband-uwb-antennas-and-propagation/</loc>
+  <lastmod>2022-11-23T12:14:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/research/eecs-research-impact/semantic-web-for-music/</loc>
+  <lastmod>2022-11-23T12:14:25+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/research/industry-collaboration/business-exchange-programme/</loc>
+  <lastmod>2022-11-23T12:14:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/research/industry-collaboration/industrial-panel/</loc>
+  <lastmod>2022-11-23T12:14:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/research/featured-research/helping-doctors-communicate-better-with-patients/</loc>
+  <lastmod>2022-11-23T12:14:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/research/featured-research/new-software-helps-improve-critical-decision-making/</loc>
+  <lastmod>2022-11-23T12:14:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/research/featured-research/disrupting-the-music-industry-with-ai-algorithms/</loc>
+  <lastmod>2022-11-23T12:14:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/research/featured-research/digital-music-platform-offers-new-opportunities-for-disabled-musicians/</loc>
+  <lastmod>2022-11-23T12:14:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/for-schools/for-schools/taster-days/</loc>
+  <lastmod>2022-11-23T12:14:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/for-schools/for-schools/lectures-for-schools/</loc>
+  <lastmod>2022-11-23T12:14:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/for-schools/for-schools/first-lego-league/</loc>
+  <lastmod>2022-11-23T12:14:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/for-schools/for-schools/iet-faraday-challenge/</loc>
+  <lastmod>2022-11-23T12:14:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/for-schools/for-schools/it-counts/</loc>
+  <lastmod>2022-11-23T12:14:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/for-schools/for-schools/the-royal-institution-masterclasses/</loc>
+  <lastmod>2022-11-23T12:14:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/for-schools/for-teachers/teaching-london-computing/</loc>
+  <lastmod>2022-11-23T12:14:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/-yongxin-yang.html</loc>
+  <lastmod>2022-11-22T13:04:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/abeywardenasajeeva.html</loc>
+  <lastmod>2022-11-22T13:08:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/abuelmaattiaisha.html</loc>
+  <lastmod>2022-11-22T13:09:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/alvaradolopezjuanmanuel.html</loc>
+  <lastmod>2022-11-22T13:07:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/antichigianni.html</loc>
+  <lastmod>2022-11-22T13:07:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/arnautluk.html</loc>
+  <lastmod>2022-11-24T05:26:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/arnoldnaomialice.html</loc>
+  <lastmod>2022-11-22T13:07:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/aziznida.html</loc>
+  <lastmod>2022-11-22T13:08:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/barthetmathieu.html</loc>
+  <lastmod>2022-11-22T13:08:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/bazarganimosab.html</loc>
+  <lastmod>2022-11-22T13:06:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/gautambonot.html</loc>
+  <lastmod>2022-11-22T13:09:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/bourguetmarie-luce.html</loc>
+  <lastmod>2022-11-23T12:14:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/bozkurtmustafa.html</loc>
+  <lastmod>2022-11-22T13:06:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/brownanthonykeith.html</loc>
+  <lastmod>2022-11-22T13:04:46+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/castlesflynn.html</loc>
+  <lastmod>2022-11-22T13:07:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/cavallaroandrea.html</loc>
+  <lastmod>2022-11-22T13:09:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/dr-chao-shu.html</loc>
+  <lastmod>2022-11-22T13:04:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/chexianhui.html</loc>
+  <lastmod>2022-11-22T13:09:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/chenxiaodong.html</loc>
+  <lastmod>2022-11-22T13:07:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/chibbindu.html</loc>
+  <lastmod>2022-11-22T13:06:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/cookmichael.html</loc>
+  <lastmod>2022-11-22T13:08:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/cowlingpeter.html</loc>
+  <lastmod>2022-11-22T13:05:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/dahlqvistfredrik.html</loc>
+  <lastmod>2022-11-22T13:08:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/delbosquetrevinojorgeeugenio.html</loc>
+  <lastmod>2022-11-22T13:08:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/distefanodino.html</loc>
+  <lastmod>2022-11-22T13:05:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/doylejoseph.html</loc>
+  <lastmod>2022-11-22T13:06:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/fazekasgyorgy.html</loc>
+  <lastmod>2022-11-22T13:06:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/fonsecapaula.html</loc>
+  <lastmod>2022-11-22T13:08:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/gadoueshady.html</loc>
+  <lastmod>2022-11-22T13:09:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/gainaralucadaniela.html</loc>
+  <lastmod>2022-11-22T13:07:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/gillsukhpalsingh.html</loc>
+  <lastmod>2022-11-22T13:09:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/goddardcallum.html</loc>
+  <lastmod>2022-11-22T13:07:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/gotenggokop.html</loc>
+  <lastmod>2022-11-22T13:08:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/gowjeremy.html</loc>
+  <lastmod>2022-11-22T13:06:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/habiba-akter.html</loc>
+  <lastmod>2022-11-22T13:04:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/hanbing.html</loc>
+  <lastmod>2022-11-22T13:08:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/haoyang.html</loc>
+  <lastmod>2022-11-22T13:05:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/healeypat.html</loc>
+  <lastmod>2022-11-22T13:07:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/houghjulian.html</loc>
+  <lastmod>2022-11-22T13:08:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/hujialun.html</loc>
+  <lastmod>2022-11-22T13:08:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/huraymond.html</loc>
+  <lastmod>2022-11-22T13:09:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/huntbachmatthew.html</loc>
+  <lastmod>2022-11-22T13:08:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/ioppolosergio.html</loc>
+  <lastmod>2022-11-22T13:07:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/ivejulia.html</loc>
+  <lastmod>2022-11-22T13:08:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/jabermona.html</loc>
+  <lastmod>2022-11-22T13:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/katevaskleomenis.html</loc>
+  <lastmod>2022-11-22T13:06:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/kellyjames.html</loc>
+  <lastmod>2022-11-22T13:06:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/khouzaniarman.html</loc>
+  <lastmod>2022-11-22T13:07:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/kolliasdimitrios.html</loc>
+  <lastmod>2022-11-22T13:09:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/krishnamoorthydharini.html</loc>
+  <lastmod>2022-11-22T13:04:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/lappinshalom.html</loc>
+  <lastmod>2022-11-22T13:06:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/lauethan.html</loc>
+  <lastmod>2022-11-22T13:08:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/lev-mukhanov-.html</loc>
+  <lastmod>2022-11-22T13:04:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/liakatamaria.html</loc>
+  <lastmod>2022-11-22T13:05:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/liuyan-1.html</loc>
+  <lastmod>2022-11-23T12:13:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/lucassimon.html</loc>
+  <lastmod>2022-11-22T13:09:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/maling.html</loc>
+  <lastmod>2022-11-22T13:09:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/macdonaldmichaela.html</loc>
+  <lastmod>2022-11-22T13:08:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/sadabadimahdieh.html</loc>
+  <lastmod>2022-11-22T13:09:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/malacariapasquale.html</loc>
+  <lastmod>2022-11-22T13:07:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/marshwilliam.html</loc>
+  <lastmod>2022-11-22T13:06:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/mclachlanscott.html</loc>
+  <lastmod>2022-11-22T13:08:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/mcphersonandrew.html</loc>
+  <lastmod>2022-11-22T13:06:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/neilmartin.html</loc>
+  <lastmod>2022-11-22T13:06:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/neogiranjita.html</loc>
+  <lastmod>2022-11-22T13:04:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/ordozgoitibruno.html</loc>
+  <lastmod>2022-11-22T13:09:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/padumadasaeranjanudayanga.html</loc>
+  <lastmod>2022-11-22T13:06:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/paltalidisnickos.html</loc>
+  <lastmod>2022-11-22T13:06:25+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/pancunhua.html</loc>
+  <lastmod>2022-11-22T13:07:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/pariniclive.html</loc>
+  <lastmod>2022-11-22T13:07:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/parksaejune.html</loc>
+  <lastmod>2022-11-22T13:09:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/perez-liebanadiego.html</loc>
+  <lastmod>2022-11-22T13:07:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/phanhuy.html</loc>
+  <lastmod>2022-11-22T13:08:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/rajabkhalid.html</loc>
+  <lastmod>2022-11-22T13:05:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/reidjane.html</loc>
+  <lastmod>2022-11-22T13:06:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/mbuvharendani.html</loc>
+  <lastmod>2022-11-22T13:09:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/requenajesus.html</loc>
+  <lastmod>2022-11-22T13:07:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/riissoren.html</loc>
+  <lastmod>2022-11-24T05:26:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/robinsonedmund.html</loc>
+  <lastmod>2022-11-22T13:08:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/rossiluca.html</loc>
+  <lastmod>2022-11-22T13:05:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/sagormdhasanuzzaman.html</loc>
+  <lastmod>2022-11-22T13:08:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/saitischaralampos.html</loc>
+  <lastmod>2022-11-22T13:09:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/samaratungamahesha.html</loc>
+  <lastmod>2022-11-22T13:08:46+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/shoopkaren.html</loc>
+  <lastmod>2022-11-22T13:06:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/skachsophie.html</loc>
+  <lastmod>2022-11-22T13:06:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/smeraldifabrizio.html</loc>
+  <lastmod>2022-11-22T13:06:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/sooriya-arachchichathurakalpanee.html</loc>
+  <lastmod>2022-11-22T13:06:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/tangmatthewwaichung.html</loc>
+  <lastmod>2022-11-22T13:06:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/tautschnigmichael.html</loc>
+  <lastmod>2022-11-22T13:06:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/timotijevictijana.html</loc>
+  <lastmod>2022-11-22T13:08:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/tombrostassos.html</loc>
+  <lastmod>2022-11-22T13:06:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/tzevelekosnikos.html</loc>
+  <lastmod>2022-11-22T13:08:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/tzimiropoulosgeorgios.html</loc>
+  <lastmod>2022-11-22T13:08:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/uhligsteve.html</loc>
+  <lastmod>2022-11-22T13:08:46+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/watsonandy.html</loc>
+  <lastmod>2022-11-22T13:08:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/wilmeringthomas.html</loc>
+  <lastmod>2022-11-22T13:06:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/wongalan.html</loc>
+  <lastmod>2022-11-22T13:09:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/woodwardjohn.html</loc>
+  <lastmod>2022-11-22T13:05:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/yangshuang-hua.html</loc>
+  <lastmod>2022-11-22T13:05:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/yaona.html</loc>
+  <lastmod>2022-11-22T13:06:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/zouyixuan.html</loc>
+  <lastmod>2022-11-22T13:05:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/agrawalruchit.html</loc>
+  <lastmod>2022-11-22T13:06:08+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/basavarajappavedaprabhu.html</loc>
+  <lastmod>2022-11-22T13:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/bealphilip.html</loc>
+  <lastmod>2022-11-22T13:06:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/bolfek-radovanijasmina.html</loc>
+  <lastmod>2022-11-23T12:12:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/bortalvaro.html</loc>
+  <lastmod>2022-11-23T12:11:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/brodiejo.html</loc>
+  <lastmod>2022-11-22T13:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/cokalderya.html</loc>
+  <lastmod>2022-11-22T13:05:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/coppolaclaudio.html</loc>
+  <lastmod>2022-11-22T13:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/demirelemir.html</loc>
+  <lastmod>2022-11-22T13:06:08+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/dockhornalexander.html</loc>
+  <lastmod>2022-11-22T13:05:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/giddenshenry.html</loc>
+  <lastmod>2022-11-22T13:05:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/gkoumasdimitris.html</loc>
+  <lastmod>2022-11-22T13:06:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/guxuanye.html</loc>
+  <lastmod>2022-11-22T13:06:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/guozhigao.html</loc>
+  <lastmod>2022-11-22T13:05:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/harrisonjacobthomasfrederick.html</loc>
+  <lastmod>2022-11-22T13:05:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/hurtadojorge.html</loc>
+  <lastmod>2022-11-22T13:05:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/joynerchristopher.html</loc>
+  <lastmod>2022-11-22T13:06:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/karanmladen.html</loc>
+  <lastmod>2022-11-22T13:05:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/khanziaullah.html</loc>
+  <lastmod>2022-11-22T13:07:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/khareprashant.html</loc>
+  <lastmod>2022-11-22T13:05:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/kicikogludoruk.html</loc>
+  <lastmod>2022-11-22T13:06:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/kochkinaelena.html</loc>
+  <lastmod>2022-11-22T13:06:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/kyrimievangelia.html</loc>
+  <lastmod>2022-11-22T13:06:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/madgechristopherjames.html</loc>
+  <lastmod>2022-11-22T13:07:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/mianosebastiano.html</loc>
+  <lastmod>2022-11-22T13:05:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/morfignostotheaveroniki.html</loc>
+  <lastmod>2022-11-22T13:05:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/ngkangfeng.html</loc>
+  <lastmod>2022-11-22T13:05:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/nolascoines.html</loc>
+  <lastmod>2022-11-22T13:04:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/noumantayyab.html</loc>
+  <lastmod>2022-11-22T13:05:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/ohanlonkenoliver.html</loc>
+  <lastmod>2022-11-22T13:05:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/paunsilviu.html</loc>
+  <lastmod>2022-11-22T13:05:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/pauwelsjohan.html</loc>
+  <lastmod>2022-11-22T13:06:08+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/rutepereiracrespofiadeiro.html</loc>
+  <lastmod>2022-11-22T13:05:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/santamariaalessio.html</loc>
+  <lastmod>2022-11-22T13:04:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/saunderstheo.html</loc>
+  <lastmod>2022-11-22T13:05:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/sharmarindam.html</loc>
+  <lastmod>2022-11-22T13:04:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/shekharravi.html</loc>
+  <lastmod>2022-11-22T13:05:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/smithdarryl.html</loc>
+  <lastmod>2022-11-22T13:04:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/songmin.html</loc>
+  <lastmod>2022-11-22T13:05:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/soyelhamit.html</loc>
+  <lastmod>2022-11-22T13:06:08+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/subramanianvinod.html</loc>
+  <lastmod>2022-11-22T13:06:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/sungkyun-chang.html</loc>
+  <lastmod>2022-11-22T13:04:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/tsakalidisadam.html</loc>
+  <lastmod>2022-11-22T13:05:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/tzelepischristos.html</loc>
+  <lastmod>2022-11-22T13:05:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/vialbenjamin.html</loc>
+  <lastmod>2022-11-22T13:04:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/vitanovivan.html</loc>
+  <lastmod>2022-11-22T13:05:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/wanghuange.html</loc>
+  <lastmod>2022-11-22T13:05:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/wangyuecheng.html</loc>
+  <lastmod>2022-11-22T13:06:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/weberxavier.html</loc>
+  <lastmod>2022-11-22T13:06:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/winfieldjonathan.html</loc>
+  <lastmod>2022-11-23T12:12:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/xomperoalessio.html</loc>
+  <lastmod>2022-11-22T13:05:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/yiwenqiang.html</loc>
+  <lastmod>2022-11-22T13:05:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/yujuntao.html</loc>
+  <lastmod>2022-11-22T13:05:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/zhangjin.html</loc>
+  <lastmod>2022-11-22T13:08:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/zhangyunxiao.html</loc>
+  <lastmod>2022-11-22T13:05:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/ainadola.html</loc>
+  <lastmod>2022-11-23T12:12:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/bancroftkeith.html</loc>
+  <lastmod>2022-11-23T12:12:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://eecs.qmul.ac.uk/people/a/batesisobel.html</loc>
+  <lastmod>2022-11-23T12:12:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
